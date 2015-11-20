@@ -3,7 +3,7 @@
 //  SliteHD
 //
 //  Created by LiNing on 15/11/20.
-//  Copyright © 2015年 HIKVISION. All rights reserved.
+//  Copyright © 2015年 DEVIL. All rights reserved.
 //
 
 #import "AppDelegate.h"
